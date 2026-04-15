@@ -1,0 +1,11 @@
+.DS_Store
+DerivedData/
+build/
+.build/
+backups/*.json
+backups/*.log
+MealPlannerApp/MealPlannerApp/Resources/Secrets.xcconfig
+MealPlannerApp/MealPlannerApp/Resources/.env.supabase
+xcuserdata/
+*.xcuserstate
+*.swp
