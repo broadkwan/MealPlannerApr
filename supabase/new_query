@@ -1,0 +1,2 @@
+alter table public.daily_menu_assignments
+add column if not exists breakfast_location text;
